@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "control-clientes-225f0": {
+      "hosting": {
+        "control-clientes": [
+          "control-clientes-225f0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "control-clientes-225f0"
+  }
+}
